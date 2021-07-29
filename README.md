@@ -1,1 +1,1 @@
-# training_progect
+# training_project
